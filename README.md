@@ -1,2 +1,4 @@
 # hello-world
-just another resopnd
+hii guys
+im hirusha
+i like to code python and c 
